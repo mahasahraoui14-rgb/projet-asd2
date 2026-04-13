@@ -1,3 +1,6 @@
+#maha sahraoui
+#zaineb khaterchi
+#projet asd2
 #include <stdio.h>
 #include <string.h>
 
